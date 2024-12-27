@@ -1,0 +1,101 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Silent Sea",
+        "description": "A thrilling tale of adventure on the high seas.",
+        "price": 25.99,
+        "author": "James Patterson",
+        "pageCount": 320,
+        "publicationYear": 2018,
+        "genre": "Adventure",
+        "language": "English",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnurRlNGZ9DoXgd9B5mda1NixbVsRyknQ2Q&s"
+      },
+      {
+        "id": 2,
+        "title": "Whispers of the Forest",
+        "description": "An enchanting story of a mystical forest.",
+        "price": 19.99,
+        "author": "Sophie Green",
+        "pageCount": 280,
+        "publicationYear": 2020,
+        "genre": "Fantasy",
+        "language": "English",
+        "image": "https://i1.sndcdn.com/artworks-w4BZkjzHqsrNW1Ny-Xo31Dw-t1080x1080.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Forgotten Kingdom",
+        "description": "A historical journey through a lost empire.",
+        "price": 29.99,
+        "author": "Arthur King",
+        "pageCount": 400,
+        "publicationYear": 2016,
+        "genre": "Historical Fiction",
+        "language": "English",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0lnOFqUyGjNbNOikj6Z8-6qBT_cedlbDOA&s"
+      },
+      {
+        "id": 4,
+        "title": "Under the Midnight Sun",
+        "description": "A romance blooming under the Arctic lights.",
+        "price": 22.50,
+        "author": "Clara Snow",
+        "pageCount": 350,
+        "publicationYear": 2019,
+        "genre": "Romance",
+        "language": "English",
+        "image": "https://mpd-biblio-covers.imgix.net/9781250105790.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Echoes of War",
+        "description": "A gripping novel about the sacrifices of war.",
+        "price": 24.00,
+        "author": "Robert Harris",
+        "pageCount": 450,
+        "publicationYear": 2021,
+        "genre": "War Fiction",
+        "language": "English",
+        "image": "https://m.media-amazon.com/images/M/MV5BODU3MTMyODc3OF5BMl5BanBnXkFtZTgwMDYzODg5NDE@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 6,
+        "title": "The Codebreaker",
+        "description": "The untold story of a brilliant cryptographer.",
+        "price": 27.99,
+        "author": "Emily Carter",
+        "pageCount": 370,
+        "publicationYear": 2017,
+        "genre": "Biography",
+        "language": "English",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982115869/the-code-breaker-9781982115869_hr.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mysteries of the Deep",
+        "description": "Exploring the uncharted territories of the ocean.",
+        "price": 26.50,
+        "author": "Dr. Alan Blue",
+        "pageCount": 300,
+        "publicationYear": 2022,
+        "genre": "Science",
+        "language": "English",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhjYWE2MWEtMTM3Mi00NjM1LWIwYWMtOGU5OTNmMGRjMzU4XkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "id": 8,
+        "title": "The Time Traveler",
+        "description": "A science fiction epic spanning centuries.",
+        "price": 28.99,
+        "author": "H.G. Wells Jr.",
+        "pageCount": 500,
+        "publicationYear": 2015,
+        "genre": "Science Fiction",
+        "language": "English",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDE3MTNlNTAtMWIxNC00NGYyLTlmODUtZWE3ODRkZDljZjUzXkEyXkFqcGc@._V1_.jpg"
+      }
+    ]
+  }
+  
